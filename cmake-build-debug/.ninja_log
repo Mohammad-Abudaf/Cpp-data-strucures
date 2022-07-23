@@ -1,0 +1,22 @@
+# ninja log v5
+1	484	1658566366556039315	CMakeFiles/DataStructures.dir/main.cpp.o	c4c89b93b6694fca
+484	591	1658566366660041547	DataStructures	936867daa1984606
+0	159	1658073692714022611	CMakeFiles/DataStructures.dir/listnode/ListNode.cpp.o	8267ead239077e45
+1	243	1658170249788512246	CMakeFiles/DataStructures.dir/dump_Class/Person.cpp.o	ac1ae480cd01034e
+0	9	1658067690573427041	CMakeFiles/DataStructures.dir/node/Node.cpp.o	769bca0f81216b7
+1	14	1657888414096316909	CMakeFiles/DataStructures.dir/stack/FixedStack.cpp.o	7b6a080f68c6de56
+1	388	1658566366460037256	CMakeFiles/DataStructures.dir/tree/Tree.cpp.o	248e3e9f6f4e6ddd
+0	218	1658067690781399208	CMakeFiles/DataStructures.dir/stack/Stack.cpp.o	5590537638b5dc2b
+0	423	1658566413753051987	CMakeFiles/DataStructures.dir/main.cpp.o	c4c89b93b6694fca
+423	527	1658566413853054133	DataStructures	936867daa1984606
+1	465	1658566425897312608	CMakeFiles/DataStructures.dir/main.cpp.o	c4c89b93b6694fca
+465	597	1658566426029315441	DataStructures	936867daa1984606
+2	342	1658566498094862482	CMakeFiles/DataStructures.dir/tree/Tree.cpp.o	248e3e9f6f4e6ddd
+1	445	1658566498198864715	CMakeFiles/DataStructures.dir/main.cpp.o	c4c89b93b6694fca
+445	535	1658566498286866605	DataStructures	936867daa1984606
+1	470	1658566517083270241	CMakeFiles/DataStructures.dir/main.cpp.o	c4c89b93b6694fca
+470	551	1658566517163271959	DataStructures	936867daa1984606
+0	332	1658566531863587665	CMakeFiles/DataStructures.dir/main.cpp.o	c4c89b93b6694fca
+332	381	1658566531911588696	DataStructures	936867daa1984606
+0	403	1658566639857907808	CMakeFiles/DataStructures.dir/main.cpp.o	c4c89b93b6694fca
+403	524	1658566639977910388	DataStructures	936867daa1984606
